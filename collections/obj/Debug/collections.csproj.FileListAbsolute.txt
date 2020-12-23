@@ -1,1 +1,6 @@
 C:\Users\Murali1\Documents\c#\collections\collections\bin\Debug\collections.exe.config
+C:\Users\Murali1\Documents\c#\collections\collections\bin\Debug\collections.exe
+C:\Users\Murali1\Documents\c#\collections\collections\bin\Debug\collections.pdb
+C:\Users\Murali1\Documents\c#\collections\collections\obj\Debug\collections.csprojResolveAssemblyReference.cache
+C:\Users\Murali1\Documents\c#\collections\collections\obj\Debug\collections.exe
+C:\Users\Murali1\Documents\c#\collections\collections\obj\Debug\collections.pdb
